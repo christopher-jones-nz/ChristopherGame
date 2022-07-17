@@ -3,7 +3,7 @@
 
 # short gameplay video
 
-www.youtube.com/embed/eAWLTefoCVU
+https://youtu.be/eAWLTefoCVU
 
 # how to play
 1. use left and right arrow keys or a and d keys to move left and right
