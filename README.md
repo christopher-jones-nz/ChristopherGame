@@ -25,4 +25,4 @@ https://youtu.be/eAWLTefoCVU
 5. add art of character model
 
 # feedback
-if you have any feedback on how to improve the game, let me know
+if you have any feedback on how to improve the game, let me know please
