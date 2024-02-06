@@ -1,5 +1,5 @@
-# Christopher-Game
-3D platform game
+# Christopher Game
+A 3D platform game where the goal is to collect coins and complete the level.
 
 # short gameplay video
 
