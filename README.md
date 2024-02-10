@@ -2,6 +2,7 @@
 The greatest 3D platform game of all time. The goal of ChristopherGame is to collect coins and complete the level.
 
 ## Short Gameplay Video
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 https://youtu.be/uQjDRsXIGmM
 
 ## How to Play
