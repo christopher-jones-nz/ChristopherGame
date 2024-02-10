@@ -19,12 +19,14 @@ Link to full video: https://youtu.be/uQjDRsXIGmM
 2. when you finish the game, manually end the game to exit
 
 ## Planned Features
-1. the game resets automatically when you fall off the platform
+1. ~~there is a platform underneath the player which catches them when they fall~~
 2. there is a super jump counter
 3. a player can complete the level
 4. there is a timer from start to finish of a level
 5. there is more than one level
 6. the character model has some art
+7. the player can choose to use super jump or regular jump
+8. when the player reaches the end of a section, the camera rotates 90&deg to reveal the next section
 
 ## Feedback
 If you have any feedback on the game or feature requests please let me know!
