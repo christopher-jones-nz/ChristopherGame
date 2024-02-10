@@ -2,7 +2,7 @@
 The greatest 3D platform game of all time. The goal of ChristopherGame is to collect coins and complete the level.
 
 ## Short Gameplay Video
-![alt text](https://github.com/burstfire301/ChristopherGame/blob/main/feb-update.gif)
+![alt text](https://github.com/burstfire301/ChristopherGame/blob/main/chrome-capture-2024-2-10.gif)
 https://youtu.be/uQjDRsXIGmM
 
 ## How to Play
