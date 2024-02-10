@@ -1,9 +1,10 @@
 # Christopher Game
 The greatest 3D platform game of all time. The goal of ChristopherGame is to collect coins and complete the level.
 
-## Short Gameplay Video
-![alt text](https://github.com/burstfire301/ChristopherGame/blob/main/chrome-capture-2024-2-10.gif)
-https://youtu.be/uQjDRsXIGmM
+## Latest Version: Feb 2024
+![alt text](https://github.com/burstfire301/ChristopherGame/blob/main/feb-update.gif)
+
+Link to full video: https://youtu.be/uQjDRsXIGmM
 
 ## How to Play
 1. use left and right arrow keys or a and d keys to move left and right
