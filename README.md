@@ -6,6 +6,14 @@ The greatest 3D platform game of all time. The goal of ChristopherGame is to col
 
 Link to full video: https://youtu.be/uQjDRsXIGmM
 
+## How to Install and Run
+1. clone the repo
+2. open unity hub
+3. add project from disk
+4. open project in unity hub
+5. load the scene from the asset folder
+6. click play button
+
 ## How to Play
 1. use left and right arrow keys or a and d keys to move left and right
 2. use spacebar to jump
