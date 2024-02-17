@@ -11,8 +11,8 @@ public class Player : MonoBehaviour
     private float horizontalInput;
     private Rigidbody rigidBodyComponent;
     private int superJumpsRemaining = 1;
+    private int characterSpeed = 2; //change the speed of character
    
-    //christopher game is cool
     // Start is called before the first frame update
     void Start()
     {
@@ -22,8 +22,8 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //check if space key is pressed down
-        if (Input.GetKeyDown(KeyCode.Space))
+        // when player presses 'space', 'w', or 'up' on the keyboard, then we are jumping
+        if (Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W))
         {
             jumpKeyWasPressed = true;
         }
@@ -33,9 +33,8 @@ public class Player : MonoBehaviour
 
     //is called once every physics update
     void FixedUpdate()
-    {
-
-         rigidBodyComponent.velocity = new Vector3(horizontalInput, rigidBodyComponent.velocity.y, rigidBodyComponent.velocity.z);
+    {               
+         rigidBodyComponent.velocity = new Vector3(horizontalInput*characterSpeed, rigidBodyComponent.velocity.y, rigidBodyComponent.velocity.z);
 
         if (Physics.OverlapSphere(groundCheckTransform.position, 0.1f, playerMask).Length == 0)
         {
@@ -62,7 +61,8 @@ public class Player : MonoBehaviour
         {
             Destroy(other.gameObject);
             superJumpsRemaining++;
-        }    
+        }
+   
     }
 
 }
