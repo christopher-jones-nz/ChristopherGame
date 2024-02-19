@@ -23,10 +23,6 @@ I wanted to make a game in Unity to learn about 3D graphics, game engines, C#, a
 5. you can stack an unlimited number of super jumps
 6. the goal is to help your character get from the first platform, to the final platform
 
-## Notes
-1. if you fall off the platform, restart the game or it will fall forever
-2. when you finish the game, manually end the game to exit
-
 ## Planned Features
 1. ~~there is a platform underneath the player which catches them when they fall~~
 2. there is a super jump counter
