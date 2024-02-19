@@ -17,6 +17,7 @@ I wanted to make a game in Unity to learn about 3D graphics, game engines, C#, a
 
 ## How to Play
 1. use the arrow keys or wasd to move and jump
+
 **_NOTE:_** spacebar is also jump
 2. you can move while in the air
 3. collect coins to gain a super jump
