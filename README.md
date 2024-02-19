@@ -16,12 +16,13 @@ I wanted to make a game in Unity to learn about 3D graphics, game engines, C#, a
 6. click play button
 
 ## How to Play
-1. use left and right arrow keys or a and d keys to move left and right
-2. use spacebar to jump
-3. you can move while in the air
-4. collect coins to gain a super jump
-5. you can stack unlimited number of super jumps
-6. the goal is to help your character get from the first platform, to the final platform
+1. use the arrow keys or wasd to move and jump
+**_NOTE:_** spacebar is also jump
+2. you can move while in the air
+3. collect coins to gain a super jump
+4. you can stack an unlimited number of super jumps
+5. the goal is to help your character get from the first platform, to the final platform
+good luck!
 
 ## Notes
 1. if you fall off the platform, restart the game or it will fall forever
