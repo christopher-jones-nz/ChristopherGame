@@ -24,14 +24,14 @@ I wanted to make a game in Unity to learn about 3D graphics, game engines, C#, a
 6. the goal is to help your character get from the first platform, to the final platform
 
 ## Planned Features
-1. ~~there is a platform underneath the player which catches them when they fall~~
-2. there is a super jump counter
-3. a player can complete the level
-4. there is a timer from start to finish of a level
-5. there is more than one level
-6. the character model has some art
-7. the player can choose to use super jump or regular jump
-8. when the player reaches the end of a section, the camera rotates 90&deg to reveal the next section
+- [x] there is a platform underneath the player which catches them when they fall (completed)
+- [ ] there is a super jump counter
+- [ ] a player can complete the level
+- [ ] there is a timer from start to finish of a level
+- [ ] there is more than one level
+- [ ] the character model has some art
+- [ ] the player can choose to use super jump or regular jump
+- [ ] when the player reaches the end of a section, the camera rotates 90&deg to reveal the next section
 
 ## Feedback
 If you have any feedback on the game or feature requests please let me know!
