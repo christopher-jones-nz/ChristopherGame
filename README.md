@@ -6,6 +6,9 @@ The greatest 3D platform game of all time. The goal of ChristopherGame is to col
 
 Link to full video: https://youtu.be/uQjDRsXIGmM
 
+## Why Does Christopher Game Exist
+I wanted to make a game in Unity to learn about 3D graphics, game engines, C#, and git. I have since worked as a Computational Design Intern at Trimble Inc working with 3D graphics, C#, and git. Now I improve the game for fun and to practice what I have learned.
+
 ## How to Install and Run
 1. clone the repo
 2. open unity hub
